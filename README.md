@@ -1,1 +1,1 @@
-# Proyecto de Programación 2
+# Proyecto de Programación 2 - Juego de Pool
